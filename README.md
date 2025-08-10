@@ -7,17 +7,17 @@ Classes, Projects, Presentations, and Reviews
 The table below contains all of the work performed for my MSDA (graduated Aug 2025). Employers will find the most use from clicking on the "Class Summary" links to get descriptions of a class, its requisite projects, and summaries of how I completed them, including links to those materials. Students will find the most use from clicking on the "Class Writeup" links to read my posts from the WGU_MSDA subreddit, where I covered my experiences with each class, including stumbling blocks, useful resources, etc. Links directly to reports, video presentations, etc., are also directly available in the table.
 
 | Class Summary  | Task/Project Name  | Project Video  | Class Writeup  | Time Spent (hh:mm) | Date Completed  |
-|D596|---|---|---|---|---|
-|D597|   |   |   |   |   |
-|D598|   |   |   |   |   |
-|D599|   |   |   |   |   |
-|D600|   |   |   |   |   |
-|D601|   |   |   |   |   |
-|D602|   |   |   |   |   |
-|D603|   |   |   |   |   |
-|D604|   |   |   |   |   |
-|D605|   |   |   |   |   |
-|D606|   |   |   |   |   |
+|D596            |---|---|---|---|---|
+|D597            |   |   |   |   |   |
+|D598            |   |   |   |   |   |
+|D599            |   |   |   |   |   |
+|D600            |   |   |   |   |   |
+|D601            |   |   |   |   |   |
+|D602            |   |   |   |   |   |
+|D603            |   |   |   |   |   |
+|D604            |   |   |   |   |   |
+|D605            |   |   |   |   |   |
+|D606            |   |   |   |   |   |
 
 The above works represent the cumulative effort spent over 6 months to go from some college credits or programming experience to having a master's degree in the field of data science. While I'm aware that I have limited professional experience, it is my hope that the effort demonstrated in this process emphasizes that I am deeply motivated to continue to learn in this field and to make the most of any opportunity given to me. Any hiring represents some amount of risk or uncertainty, but I believe that this drive to learn and succeed combined with my soft skills and life experiences from a career in public service and my perspective as an "elder milennial" make me an excellent candidate to take that chance on, so that I can grow with an organization and we can enjoy a long and fruitful partnership.
 
