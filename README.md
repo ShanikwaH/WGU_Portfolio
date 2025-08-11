@@ -6,18 +6,19 @@ This portfolio documents my work in the Master of Science in Data Analytics – 
 # Classes, Projects, Presentations, and Reviews
 Each row in the table below links to individual deliverables from the MSDA program. "Class Summary" entries describe the course, its major tasks, and how I approached them. “Class Writeups” link to personal reflections and peer guidance I shared on the WGU_MSDA subreddit, capturing practical takeaways, technical strategies, and real-world application notes. Employers should prioritize the summaries and videos for quick evaluation of my applied skillset. The table below contains all of the work performed for my MSDA (graduated Aug 2025). Employers will find the most use from clicking on the "Class Summary" links to get descriptions of a class, its requisite projects, and summaries of how I completed them, including links to those materials. Students will find the most use from clicking on the "Class Writeup" links to read my posts from the WGU_MSDA subreddit, where I covered my experiences with each class, including stumbling blocks, useful resources, etc. Links directly to reports, video presentations, etc., are also directly available in the table.
 
-| Class Summary  | Task/Project Name  | Project Video  | Class Writeup  | Time Spent (hh:mm) | Date Completed  |
-|D596            |---|---|---|---|---|
-|D597            |   |   |   |   |   |
-|D598            |   |   |   |   |   |
-|D599            |   |   |   |   |   |
-|D600            |   |   |   |   |   |
-|D601            |   |   |   |   |   |
-|D602            |   |   |   |   |   |
-|D603            |   |   |   |   |   |
-|D604            |   |   |   |   |   |
-|D605            |   |   |   |   |   |
-|D606            |   |   |   |   |   |
+| Class Summary  | Task/Project Name  | Project Video  | Class Writeup  | Time Spent (hh:mm)  | Date Completed  |
+|---|---|---|---|---|---|
+| D596  |   |   |   |   |   |
+| D597  |   |   |   |   |   |
+| D598  |   |   |   |   |   |
+| D599  |   |   |   |   |   |
+| D600  |   |   |   |   |   |
+| D601  |   |   |   |   |   |
+| D602  |   |   |   |   |   |
+| D603  |   |   |   |   |   |
+| D604  |   |   |   |   |   |
+| D605  |   |   |   |   |   |
+| D606  |   |   |   |   |   |
 
 This program was completed over 6 months while balancing prior responsibilities in public safety, juvenile education, and logistics. My approach was shaped by years of frontline work—collecting raw data, identifying anomalies, and making sense of human-centered systems. That mindset transferred directly into this work: making meaning out of messy inputs, building repeatable systems, and documenting each step to ensure transparency. The above works represent the cumulative effort spent over 6 months to go from some college credits or programming experience to having a master's degree in the field of data science. While I'm aware that I have limited professional experience, it is my hope that the effort demonstrated in this process emphasizes that I am deeply motivated to continue to learn in this field and to make the most of any opportunity given to me. Any hiring represents some amount of risk or uncertainty, but I believe that this drive to learn and succeed combined with my soft skills and life experiences from a career in public service and my perspective as a "young adult" make me an excellent candidate to take that chance on, so that I can grow with an organization and we can enjoy a long and fruitful partnership. I don’t claim deep tenure in the data field, but this portfolio shows I understand how to generate insights, present them clearly, and support operational improvement with evidence. I aim to grow within an analytics function that values communication, integrity, and impact.
 
