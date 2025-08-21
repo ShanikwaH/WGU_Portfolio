@@ -1,6 +1,7 @@
 # Course Summary
 D596: The Data Analytics Journey D596 is a course that introduces learners to the data analytics life cycle and career pathways within the field. It is delivered through practical assessments, requiring students to apply theoretical knowledge to real-world scenarios and reflect on their personal and professional development in data analytics.
-# Course Objectives WGU outlines the following competencies as a part of this class:
+# Course Objectives 
+WGU outlines the following competencies as a part of this class:
 • Applies the Data Analytics Life Cycle: The learner applies the data analytics life cycle to real-world business scenarios.
 • Proposes a Data Analytics Plan: The learner proposes a data analytics plan to solve a business problem.
 • Differentiates the Variety of Careers and Roles: The learner differentiates the variety of careers and roles related to the broad field of data analytics.
