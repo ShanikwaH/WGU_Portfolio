@@ -5,7 +5,8 @@ D596: The Data Analytics Journey D596 is a course that introduces learners to th
 • Proposes a Data Analytics Plan: The learner proposes a data analytics plan to solve a business problem.
 • Differentiates the Variety of Careers and Roles: The learner differentiates the variety of careers and roles related to the broad field of data analytics.
 • Identifies Potential Career Goals: The learner identifies potential career goals based on foundational knowledge of self and career pathways.
-# Course Materials This course requires the submission of a career plan and discussions related to data analytics roles and tools. It also involves reflections based on the CliftonStrengths assessment results.
+# Course Materials 
+This course requires the submission of a career plan and discussions related to data analytics roles and tools. It also involves reflections based on the CliftonStrengths assessment results.
 # Practical Assessment(s) Overview & Files
 • Task 1: The Data Analytics Life Cycle
     ◦ Description: This task requires describing the seven phases of the data analytics life cycle, adding personal reflections on expertise for each phase, and proposing ways to gain expertise with examples. It also involves explaining how organizational goals and missions help identify business requirements. Additionally, learners select a data analytics tool or technique, describe its use in one phase, include three risks, and detail an organizational or technical problem it solves. The task concludes with describing the decision-making process for tool selection, justifying the organizational/technical need, summarizing results, and evaluating three potential ethical problems.
