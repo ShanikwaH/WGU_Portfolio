@@ -1,5 +1,7 @@
 # Course Summary
-D597: Data Management D597 focuses on the design and implementation of database solutions, including both relational and non-relational databases. It requires learners to explore, design, implement, and present database solutions using real-world datasets.
+- **D597: Data Management** 
+
+D597 focuses on the design and implementation of database solutions, including both relational and non-relational databases. It requires learners to explore, design, implement, and present database solutions using real-world datasets.
 # Course Objectives 
 WGU outlines the following competencies as a part of this class:
 - **Recommends an Appropriate Data Architecture:** The learner recommends an appropriate data architecture.
