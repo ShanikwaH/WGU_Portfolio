@@ -1,5 +1,5 @@
 # Course Summary
-**D598: Analytics Programming** 
+- **D598: Analytics Programming** 
 D598 focuses on developing programming skills for data analysis, transitioning from pseudocode to functional programs and creating data visualizations for stakeholders. It emphasizes integrating programming language syntax, control elements, and modular components to perform data acquisition and organization tasks.
 # Course Objectives 
 WGU outlines the following competencies as a part of this class:
