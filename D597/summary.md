@@ -1,5 +1,5 @@
 # Course Summary
-- **D597: Data Management** 
+**D597: Data Management** 
 
 D597 focuses on the design and implementation of database solutions, including both relational and non-relational databases. It requires learners to explore, design, implement, and present database solutions using real-world datasets.
 # Course Objectives 
