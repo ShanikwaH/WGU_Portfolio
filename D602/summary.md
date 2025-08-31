@@ -4,9 +4,12 @@
 D602 focuses on the practical aspects of deploying data analytics solutions, including analyzing business cases for MLOps, designing and implementing data production pipelines, and deploying APIs. It requires learners to write code, manage it in version control, and present their technical solutions effectively.
 # Course Objectives 
 WGU outlines the following competencies as a part of this class:
-- **Analyzes a Business Case:** The learner analyzes a business case to determine the requirements necessary for deployment.
-- **Implements a Data Product Pipeline:** The learner implements a data product pipeline to address organizational needs.
-Course Materials This course uses Python or R for coding. GitLab is used for source control. Tools like MLFlow and DVC are specifically mentioned for data pipelines. Dockerfiles are used for API deployment. Panopto video recordings are required for demonstrating the live API.
+- **Analyzes a Business Case:** The learner analyzes a business case to determine the requirements necessary for deployment.  
+- **Implements a Data Product Pipeline:** The learner implements a data product pipeline to address organizational needs.  
+- **Implements Multi-System Functions:** The learner implements a function to call and receive information between multiple systems for deployment.  
+- **Deploys a Data Product:** The learner deploys a data product based on project requirements. 
+# Course Materials
+This course uses Python or R for coding. GitLab is used for source control. Tools like MLFlow and DVC are specifically mentioned for data pipelines. Dockerfiles are used for API deployment. Panopto video recordings are required for demonstrating the live API.
 # Practical Assessment(s) Overview & Files
 - **Task 1:** Business Case Analysis
     - **Description:** As a data scientist for a supermarket chain, Kronkers, the task is to analyze the business case for implementing MLOps. This involves describing the objectives of an MLOps deployment architecture, identifying constraints to implementing an MLOps solution, and identifying all functional and non-functional requirements for the proposed MLOps solution.
